@@ -30,29 +30,36 @@ Este projeto foi construído com foco em **dispositivos móveis**, utilizando as
    git clone https://github.com/felipejmadruga/clone-uber-tailwind
  
  2. Acesse a pasta do projeto: 
+
     cd clone-uber-tailwind
 
 3. Instale as depenências:
+
     npm install
 
 4. Inicie o projeto:
+
     npm run dev
 
 5. Acesse no navegador:
+
     O terminal mostrará o link (geralmente http://localhost:3000/) — é só clicar ou colar no navegador.
 
-📸 Preview do site
-Abaixo está uma prévia do layout da página inicial:
+## 🧑‍💻 Autor
 
-🧑‍💻 Autor
-Felipe Madruga
+**Felipe Madruga**
+
 github.com/felipejmadruga
 
-📝 Como adicionar este README ao projeto e subir para o GitHub
+## 📝 Como adicionar este README ao projeto e subir para o GitHub
 
 1. Copie este conteúdo e salve no arquivo README.md na raiz do seu projeto.
 
 2. No Git Bash, execute os comandos abaixo:
+
     git add README.md
+
     git commit -m "Adiciona README.md com informações do projeto"
+
     git push origin main
+    
